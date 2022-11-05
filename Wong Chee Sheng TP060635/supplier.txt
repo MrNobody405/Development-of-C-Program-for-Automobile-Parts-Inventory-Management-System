@@ -1,0 +1,6 @@
+S01:Wong Chee Sheng:012-720 3349:Bandar Puteri, Klang:wong@gmail.com:A01, A04, B01, D04
+S02:Yap Pei Tian:012-312 1412:Subang:Tory@gmail.com:A02, B02, C03, D02, E01, E05, A05
+S03:Nathan:014-232 0194:cheras, KL:nathan@gmail.com:A03, B03, B05, C04, E04
+S04:Jahseh:012-914 9123:Petaling jaya, Shah Alam:xxxtentacion@gmail.com:B04, C01, C02, C05, D01, D03, E02
+S05:Gustav:013-923 2931:KL, Puchong:LilPeep@gmail.com:D05, E03
+S06:nate:012-923 0213:KL:nathan@gmail.com:
